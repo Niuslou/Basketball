@@ -15,6 +15,7 @@ function App() {
           <p id="punkteguest">0 Punkte</p>
 
           <button type="button" className="An guest" onClick={werfen}>Werfen</button>
+          
         </div>
         <div className="col">
         <img className="bild"src={basketballimg}></img>
